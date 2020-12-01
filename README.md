@@ -5,7 +5,6 @@ Unreal Engine 4. I also enjoy editing videos and doing some digital designs, but
 
 Some GitHub Stats 👀
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svobodavl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svobodavl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svobodavl)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svobodavl)](https://github.com/anuraghazra/github-readme-stats)
 (from : https://github.com/anuraghazra/github-readme-stats)
